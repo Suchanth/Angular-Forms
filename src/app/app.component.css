@@ -1,0 +1,16 @@
+.custom-card-bg {
+    background-color: #f0f8ff;
+  }
+  .outer-container {
+    background-color: #e0f7fa; 
+    min-height: 100vh; 
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    padding: 20px; 
+  }
+  .card{
+    position:relative;
+    margin-bottom:350px;
+  }
+  
